@@ -328,7 +328,7 @@ footer .github:hover {
     #een {float: left; background: url("./Portfolio/Logo1.png"); background-size: cover; background-position: 50% 50%; background-repeat: no-repeat}
     #twee {margin: auto; background: url("./Portfolio/Logo2.jpg"); background-size: cover; background-position: 50% 50%; background-repeat: no-repeat}
     #drie {float: right; background: url("./Portfolio/Logo3.jpg"); background-size: cover; background-position: 50% 50%; background-repeat: no-repeat}
-    #vier {float: left; background: url("./Portfolio/Logo4.jpg"); background-size: cover; background-position: 50% 50%; background-repeat: no-repeat}
+    #vier {float: left}
     #vijf {margin: auto}
     #zes {float: right}
     .br1 {display: none}
